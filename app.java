@@ -3,3 +3,5 @@
 # salary=salary in dollars
 END OF SCRIPT
 #new salary=$newsalary
+
+# workers vacation=$vacation
